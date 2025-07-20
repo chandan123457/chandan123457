@@ -56,7 +56,7 @@ I believe in **learning by doing**, and I enjoy working on beginner-friendly pro
 
 Feel free to connect and collaborate with me. I’m always open to learning from others and sharing what I know.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-singh-143b64290/) *(Add your profile link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-singh-143b64290/) 
 - 📫 Email: *your-email@example.com*  
 - 🗂 GitHub: [github.com/chandan123457](https://github.com/chandan123457/)
 
